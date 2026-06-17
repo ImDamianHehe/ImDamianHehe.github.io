@@ -653,7 +653,7 @@
 
       <div class="field">
         <label for="ign">Minecraft Username (IGN)</label>
-        <input type="text" id="ign" placeholder="e.g. Steve_PH" />
+        <input type="text" id="ign" placeholder="e.g. ImDaminaHehe" />
       </div>
 
       <div class="field">
@@ -675,21 +675,18 @@
             <input type="radio" name="payment" value="paypal"/>
             <div class="pay-name">💳 PayPal</div>
             <div class="pay-detail" id="pp-detail">damina@email.com</div>
-            <div class="pay-placeholder">damina</div>
           </label>
 
           <label class="pay-option" id="opt-gcash" onclick="selectPay('gcash')">
             <input type="radio" name="payment" value="gcash"/>
             <div class="pay-name">📱 GCash</div>
             <div class="pay-detail" id="gc-detail">09XX-XXX-XXXX</div>
-            <div class="pay-placeholder">← Replace with your GCash number</div>
           </label>
 
           <label class="pay-option" id="opt-maya" onclick="selectPay('maya')">
             <input type="radio" name="payment" value="maya"/>
             <div class="pay-name">🟢 Maya</div>
             <div class="pay-detail" id="maya-detail">09XX-XXX-XXXX</div>
-            <div class="pay-placeholder">← Replace with your Maya number</div>
           </label>
 
         </div>
