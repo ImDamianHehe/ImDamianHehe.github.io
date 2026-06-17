@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ImBatman Shop — Minecraft Coins</title>
+  <title>ImBatman Shop — Minecraft Products</title>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet"/>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -531,7 +531,7 @@
 
   <p class="hero-eyebrow">🦇 Minecraft BATMAN Shop</p>
   <h1>IM<span>BATMAN</span></h1>
-  <p class="hero-sub">Buy in-game products. Dark Knight prices. Gotham-speed delivery.</p>
+  <p class="hero-sub">Purchase in-game products. Dark Knight prices. Gotham-speed delivery.</p>
   <div class="hero-cta">
     <a class="btn btn-gold" href="#packages">View Packages</a>
     <a class="btn btn-outline" href="#order">Place Order</a>
@@ -549,7 +549,7 @@
 <section id="packages">
   <p class="section-label">Choose Your Arsenal</p>
   <h2 class="section-title">Coin Packages</h2>
-  <p class="section-sub">Pick your package, place your order, and get your coins delivered in-game.</p>
+  <p class="section-sub">Pick your package, place your order, and make a ticket on discord to get your product.</p>
 
   <div class="packages-grid">
 
@@ -596,7 +596,7 @@
     <div class="pkg-card">
       <div class="pkg-icon">👑</div>
       <div class="pkg-name">Donator+</div>
-      <div class="pkg-coins">15,000 Coins</div>
+      <div class="pkg-coins">60-Days</div>
       <div class="pkg-price"><sup>$</sup>6<sub>/month</sub></div>
       <ul class="pkg-perks">
         <li>Donator Badge</li>
@@ -615,7 +615,7 @@
 <section id="how">
   <p class="section-label">The Process</p>
   <h2 class="section-title">How It Works</h2>
-  <p class="section-sub">Simple, fast, and secure. Four steps to get your coins.</p>
+  <p class="section-sub">Simple, fast, and secure. Four steps to get your product.</p>
 
   <div class="steps">
     <div class="step">
@@ -635,8 +635,8 @@
     </div>
     <div class="step">
       <div class="step-num">04</div>
-      <div class="step-title">Get Your Coins</div>
-      <p>We deliver your coins in-game within the time shown on your package.</p>
+      <div class="step-title">Get Your Product</div>
+      <p>Send a screenshot and send it to a ticket on discord.</p>
     </div>
   </div>
 </section>
@@ -708,7 +708,7 @@
       <h3>✅ Order Received — Send Payment Now</h3>
       <p>Your order has been logged. Please send your payment using the details below:</p>
       <div class="instruction-box" id="instruction-content"></div>
-      <p style="margin-top:1rem;">After sending, <strong>screenshot your payment</strong> and send it to us on Facebook / Discord so we can verify and deliver your coins faster.</p>
+      <p style="margin-top:1rem;">After sending, <strong>screenshot your payment and make a ticket on discord.</strong> Send the information given above to verify your purchase.</p>
       <p style="margin-top:0.5rem; color: var(--gold);">🦇 Expected delivery: within the time shown on your package.</p>
     </div>
 
@@ -762,10 +762,10 @@
   }
 
   function getAmount(pkg) {
-    if (pkg.includes('₱29')) return '₱29';
-    if (pkg.includes('₱79')) return '₱79';
-    if (pkg.includes('₱199')) return '₱199';
-    if (pkg.includes('₱499')) return '₱499';
+    if (pkg.includes('&3')) return '&3';
+    if (pkg.includes('&4')) return '&4';
+    if (pkg.includes('&5')) return '&5';
+    if (pkg.includes('&6')) return '&6';
     return '';
   }
 </script>
