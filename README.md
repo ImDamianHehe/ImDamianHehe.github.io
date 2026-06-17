@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td><img src="https://placeholder.com" alt="boy"/></td>
+    <td><img src="https://stockcake.com/i/amused-monkey-face_703344_751868" alt="boy"/></td>
     <td><img src="https://placeholder.com" alt="girl"/></td>
   </tr>
   <tr>
