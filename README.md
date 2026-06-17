@@ -35,14 +35,14 @@
     /* ── BAT SIGNAL HERO ── */
     .hero {
       position: relative;
-      min-height: 100vh;
+      m-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
       overflow: hidden;
-      padding: 2rem;
+      paddg: 2rem;
     }
 
     .bat-signal {
@@ -50,7 +50,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -60%);
-      width: min(700px, 110vw);
+      width: m(700px, 110vw);
       opacity: 0.06;
       pointer-events: none;
       animation: pulse 6s ease-in-out infinite;
@@ -531,7 +531,7 @@
 
   <p class="hero-eyebrow">🦇 Minecraft BATMAN Shop</p>
   <h1>IM<span>BATMAN</span></h1>
-  <p class="hero-sub">Purchase in-game products. Dark Knight prices. Gotham-speed delivery.</p>
+  <p class="hero-sub">Purchase Custom Prefix, Ranks, etc.</p>
   <div class="hero-cta">
     <a class="btn btn-gold" href="#packages">View Packages</a>
     <a class="btn btn-outline" href="#order">Place Order</a>
