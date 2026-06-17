@@ -1,8 +1,6 @@
 <h1>BATMAN</h1>
 
-<p>testing testing</p>
-
-<p>h<b>t</b><i>m</i>l</p>
+<p>TESTING HTML</p>
 
 
 <table>
