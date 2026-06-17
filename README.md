@@ -568,19 +568,18 @@
 
     <div class="pkg-card">
       <div class="pkg-icon">🦇</div>
-      <div class="pkg-name">Donator</div>
+      <div class="pkg-name">Donator Rank</div>
       <div class="pkg-coins">30-Days</div>
       <div class="pkg-price"><sup>$</sup>4<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>Donator Badge</li>
+        <li>Donator Rank Badge</li>
         <li>Donator Display</li>
         <li>Few In-game Commands</li>
       </ul>
       <button class="pkg-buy" onclick="selectPackage('Donator Rank — 30-Days — $4')">Buy Now</button>
     </div>
 
-    <div class="pkg-card featured">
-      <div class="featured-badge">⭐ Most Popular</div>
+    <div class="pkg-card">
       <div class="pkg-icon">🌑</div>
       <div class="pkg-name">Custom Prefix+</div>
       <div class="pkg-coins">60-Days</div>
@@ -595,15 +594,29 @@
 
     <div class="pkg-card">
       <div class="pkg-icon">👑</div>
-      <div class="pkg-name">Donator+</div>
+      <div class="pkg-name">Donator Rank+</div>
       <div class="pkg-coins">60-Days</div>
       <div class="pkg-price"><sup>$</sup>6<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>Donator Badge</li>
+        <li>Donator Rank Badge</li>
         <li>Donator Display</li>
         <li>Few In-game Commands</li>
       </ul>
       <button class="pkg-buy" onclick="selectPackage('Donator Rank+ — 60-Days — $6')">Buy Now</button>
+    </div>
+
+   <div class="pkg-card featured">
+      <div class="featured-badge">⭐ Most Popular</div>
+      <div class="pkg-icon">🦇</div>
+      <div class="pkg-name">Custom Prefix-</div>
+      <div class="pkg-coins">15-Days</div>
+      <div class="pkg-price"><sup>$</sup>2<sub>/month</sub></div>
+      <ul class="pkg-perks">
+        <li>Custom in-game Prefix Display</li>
+        <li>Custom Color</li>
+        <li>Custom Name</li>
+      </ul>
+      <button class="pkg-buy" onclick="selectPackage('Custom Prefix- — 15-Days — $2')">Buy Now</button>
     </div>
 
   </div>
@@ -664,6 +677,7 @@
           <option value="Donator Rank — 30-Days — $4">Donator Rank — 30-Days — $4</option>
           <option value="Custom Prefix+ — 60-Days — $5">Custom Prefix+ — 60-Days — $5</option>
           <option value="Donator Rank+ — 60-Days — $6">Donator Rank+ — 60-Days — $6</option>
+          <option value="Custom Prefix- — 15-Days — $2">Custom Prefix- — 15-Days — $2</option>
         </select>
       </div>
 
