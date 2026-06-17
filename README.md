@@ -732,7 +732,7 @@
 <!-- FOOTER -->
 <footer>
   <span class="bat">🦇</span>
-  © 2025 ImBatman.shop — All rights reserved.<br/>
+  © 2026 ImBatman.shop — All rights reserved.<br/>
   Not affiliated with Mojang or Microsoft.
 </footer>
 
