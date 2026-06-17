@@ -634,7 +634,7 @@
     <div class="step">
       <div class="step-num">01</div>
       <div class="step-title">Pick a Product</div>
-      <p>Choose the coin amount that fits your needs and click Buy Now.</p>
+      <p>Choose the product you want and click Buy Now.</p>
     </div>
     <div class="step">
       <div class="step-num">02</div>
