@@ -11,7 +11,8 @@
     <td><b>damina</b></td>
   </tr>
     <tr>
-    <td><b>is boy</b></td>
-    <td><b>is girl</b></td>
+    <td><b><p style="color: blue;">is boy</p></b></td>
+    <td><b><p style="color: red;">is girl</p></b></td>
   </tr>
 </table>
+
