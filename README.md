@@ -549,7 +549,7 @@
 <section id="packages">
   <p class="section-label">Purchase your product</p>
   <h2 class="section-title">Products</h2>
-  <p class="section-sub">Pick your product, place your order, and make a ticket on discord to get your product.</p>
+  <p class="section-sub">Pick one, purchase it, and make a ticket on discord to get your product.</p>
 
   <div class="packages-grid">
 
@@ -633,7 +633,7 @@
   <div class="steps">
     <div class="step">
       <div class="step-num">01</div>
-      <div class="step-title">Pick a Package</div>
+      <div class="step-title">Pick a Product</div>
       <p>Choose the coin amount that fits your needs and click Buy Now.</p>
     </div>
     <div class="step">
