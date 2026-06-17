@@ -12,7 +12,7 @@
   </tr>
     <tr>
     <td><b><p style="color: #FF5733;">is boy</p></b></td>
-    <td><b><p style="color: red;">is girl</p></b></td>
+    <td><b><p style="color: #FFC0CB;">is girl</p></b></td>
   </tr>
 </table>
 
