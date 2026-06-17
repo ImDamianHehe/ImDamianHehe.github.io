@@ -547,9 +547,9 @@
 
 <!-- PACKAGES -->
 <section id="packages">
-  <p class="section-label">Choose Your Arsenal</p>
-  <h2 class="section-title">Coin Packages</h2>
-  <p class="section-sub">Pick your package, place your order, and make a ticket on discord to get your product.</p>
+  <p class="section-label">Purchase your product</p>
+  <h2 class="section-title">Products</h2>
+  <p class="section-sub">Pick your product, place your order, and make a ticket on discord to get your product.</p>
 
   <div class="packages-grid">
 
