@@ -15,10 +15,3 @@
     <td><b>is girl</b></td>
   </tr>
 </table>
-
-
-
-CSS PROGRAMMING LANGUAGE TESTING
-h1 {
-  color: green;
-}
