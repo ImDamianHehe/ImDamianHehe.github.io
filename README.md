@@ -16,3 +16,4 @@
   </tr>
 </table>
 
+$\color{00000f}\text{asd}$
