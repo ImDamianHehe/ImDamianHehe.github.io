@@ -529,9 +529,9 @@
     <path d="M400 130 C420 150 440 180 430 210 C410 180 380 170 350 180 C360 160 380 140 400 130Z"/>
   </svg>
 
-  <p class="hero-eyebrow">🦇 Minecraft Currency Shop</p>
+  <p class="hero-eyebrow">🦇 Minecraft BATMAN Shop</p>
   <h1>IM<span>BATMAN</span></h1>
-  <p class="hero-sub">Buy in-game coins fast. Dark Knight prices. Gotham-speed delivery.</p>
+  <p class="hero-sub">Buy in-game products. Dark Knight prices. Gotham-speed delivery.</p>
   <div class="hero-cta">
     <a class="btn btn-gold" href="#packages">View Packages</a>
     <a class="btn btn-outline" href="#order">Place Order</a>
@@ -555,55 +555,55 @@
 
     <div class="pkg-card">
       <div class="pkg-icon">⚔️</div>
-      <div class="pkg-name">Sidekick</div>
-      <div class="pkg-coins">500 Coins</div>
-      <div class="pkg-price"><sup>₱</sup>29<sub>/pack</sub></div>
+      <div class="pkg-name">Custom Prefix</div>
+      <div class="pkg-coins">30-Days</div>
+      <div class="pkg-price"><sup>$</sup>3<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>500 in-game coins</li>
-        <li>Delivered within 24hrs</li>
-        <li>Good for starters</li>
+        <li>Custom In-game Prefix Display</li>
+        <li>Custom Color</li>
+        <li>Custom Name</li>
       </ul>
-      <button class="pkg-buy" onclick="selectPackage('Sidekick — 500 Coins — ₱29')">Buy Now</button>
+      <button class="pkg-buy" onclick="selectPackage('Custom Prefix — 30-Days — $3')">Buy Now</button>
     </div>
 
     <div class="pkg-card">
       <div class="pkg-icon">🦇</div>
-      <div class="pkg-name">Dark Knight</div>
-      <div class="pkg-coins">1,500 Coins</div>
-      <div class="pkg-price"><sup>₱</sup>79<sub>/pack</sub></div>
+      <div class="pkg-name">Donator</div>
+      <div class="pkg-coins">30-Days</div>
+      <div class="pkg-price"><sup>$</sup>4<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>1,500 in-game coins</li>
-        <li>Delivered within 12hrs</li>
-        <li>Best value entry</li>
+        <li>Donator Badge</li>
+        <li>Donator Display</li>
+        <li>Few In-game Commands</li>
       </ul>
-      <button class="pkg-buy" onclick="selectPackage('Dark Knight — 1500 Coins — ₱79')">Buy Now</button>
+      <button class="pkg-buy" onclick="selectPackage('Donator Rank — 30-Days — $4')">Buy Now</button>
     </div>
 
     <div class="pkg-card featured">
       <div class="featured-badge">⭐ Most Popular</div>
       <div class="pkg-icon">🌑</div>
-      <div class="pkg-name">Caped Crusader</div>
-      <div class="pkg-coins">5,000 Coins</div>
-      <div class="pkg-price"><sup>₱</sup>199<sub>/pack</sub></div>
+      <div class="pkg-name">Custom Prefix+</div>
+      <div class="pkg-coins">60-Days</div>
+    <div class="pkg-price"><sup>$</sup>5<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>5,000 in-game coins</li>
-        <li>Priority 6hr delivery</li>
-        <li>Best value overall</li>
+        <li>Custom In-game Prefix Display</li>
+        <li>Custom Color</li>
+        <li>Custom Name</li>
       </ul>
-      <button class="pkg-buy" onclick="selectPackage('Caped Crusader — 5000 Coins — ₱199')">Buy Now</button>
+      <button class="pkg-buy" onclick="selectPackage('Custom Prefix+ — 60-Days — $5')">Buy Now</button>
     </div>
 
     <div class="pkg-card">
       <div class="pkg-icon">👑</div>
-      <div class="pkg-name">Gotham Elite</div>
+      <div class="pkg-name">Donator+</div>
       <div class="pkg-coins">15,000 Coins</div>
-      <div class="pkg-price"><sup>₱</sup>499<sub>/pack</sub></div>
+      <div class="pkg-price"><sup>$</sup>6<sub>/month</sub></div>
       <ul class="pkg-perks">
-        <li>15,000 in-game coins</li>
-        <li>Instant priority delivery</li>
-        <li>For serious players</li>
+        <li>Donator Badge</li>
+        <li>Donator Display</li>
+        <li>Few In-game Commands</li>
       </ul>
-      <button class="pkg-buy" onclick="selectPackage('Gotham Elite — 15000 Coins — ₱499')">Buy Now</button>
+      <button class="pkg-buy" onclick="selectPackage('Donator Rank+ — 60-Days — $6')">Buy Now</button>
     </div>
 
   </div>
@@ -660,10 +660,10 @@
         <label for="package">Package</label>
         <select id="package">
           <option value="">— Select a package —</option>
-          <option value="Sidekick — 500 Coins — ₱29">Sidekick — 500 Coins — ₱29</option>
-          <option value="Dark Knight — 1500 Coins — ₱79">Dark Knight — 1,500 Coins — ₱79</option>
-          <option value="Caped Crusader — 5000 Coins — ₱199">Caped Crusader — 5,000 Coins — ₱199</option>
-          <option value="Gotham Elite — 15000 Coins — ₱499">Gotham Elite — 15,000 Coins — ₱499</option>
+          <option value="Custom Prefix — 30-Days — $3">Custom Prefix — 30-Days — $3</option>
+          <option value="Donator Rank — 30-Days — $4">Donator Rank — 30-Days — $4</option>
+          <option value="Custom Prefix+ — 60-Days — $5">Custom Prefix+ — 60-Days — $5</option>
+          <option value="Donator Rank+ — 60-Days — $6">Donator Rank+ — 60-Days — $6</option>
         </select>
       </div>
 
