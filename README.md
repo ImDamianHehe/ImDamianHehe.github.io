@@ -7,12 +7,12 @@
 
 <table>
   <tr>
-    <td><img src="https://placeholder.com" alt="Feature 1"/></td>
-    <td><img src="https://placeholder.com" alt="Feature 2"/></td>
+    <td><img src="https://placeholder.com" alt="boy"/></td>
+    <td><img src="https://placeholder.com" alt="girl"/></td>
   </tr>
   <tr>
-    <td><b>one</b></td>
-    <td><b>two batman</b></td>
+    <td><b>damian</b></td>
+    <td><b>damina</b></td>
   </tr>
 </table>
 
