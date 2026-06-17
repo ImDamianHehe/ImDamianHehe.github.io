@@ -674,8 +674,8 @@
           <label class="pay-option" id="opt-paypal" onclick="selectPay('paypal')">
             <input type="radio" name="payment" value="paypal"/>
             <div class="pay-name">💳 PayPal</div>
-            <div class="pay-detail" id="pp-detail">YOUR_PAYPAL@EMAIL.COM</div>
-            <div class="pay-placeholder">← Replace with your PayPal email</div>
+            <div class="pay-detail" id="pp-detail">damina@email.com</div>
+            <div class="pay-placeholder">damina</div>
           </label>
 
           <label class="pay-option" id="opt-gcash" onclick="selectPay('gcash')">
