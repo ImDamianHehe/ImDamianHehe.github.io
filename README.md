@@ -10,4 +10,8 @@
     <td><b>damian</b></td>
     <td><b>damina</b></td>
   </tr>
+    <tr>
+    <td><b>is boy</b></td>
+    <td><b>is girl</b></td>
+  </tr>
 </table>
