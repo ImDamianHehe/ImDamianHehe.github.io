@@ -267,7 +267,7 @@ nav {
 <div class="cyber-grid"></div>
 <nav>
     <a href="#" class="logo">
-        ⚡ AURA FARM
+        ⚡ AURA CRAFT
     </a>
     <ul class="nav-links">
         <li>
