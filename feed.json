@@ -1,19 +1,9 @@
 {
   "posts": [
     {
-      "title": "AuraCraft Menu Released",
-      "date": "2026-08-04",
-      "message": "The first beta of the AuraCraft launcher is now available. This build includes server status checking and the news feed system."
-    },
-    {
-      "title": "Server Update",
-      "date": "2026-08-04",
-      "message": "Updated the server to Minecraft 26.2 and improved overall stability."
-    },
-    {
-      "title": "Coming Soon",
-      "date": "2026-08-04",
-      "message": "Future launcher versions may include announcements, maintenance alerts, and quick links to Discord."
+      "title": "AuraCraft has Released publicly",
+      "date": "2026-08-02",
+      "message": "AuraCraft released!"
     }
   ]
 }
